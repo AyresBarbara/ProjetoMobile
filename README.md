@@ -104,9 +104,10 @@ cd ProjetoMobile
 
 # Instale as dependências
 npm install
+```
 
-### Execução
-
+### **Execução***
+```bash
 # Execute o projeto com Expo
 npx expo start
 
@@ -119,7 +120,7 @@ npx expo start
 ```
 
 ## 📸 Screenshots
-
+<div align="center">
 ### 🏠 Tela Inicial
 ![Tela Inicial](https://github.com/AyresBarbara/ProjetoMobile/blob/main/assets/screenshots/Home.jpeg?raw=true)
 
@@ -132,6 +133,7 @@ npx expo start
 ### 📍 Bibliotecas Próximas
 ![Bibliotecas Próximas](https://github.com/AyresBarbara/ProjetoMobile/blob/main/assets/screenshots/GeoLocaliza%C3%A7%C3%A3o.jpeg?raw=true)
 
+</div>
 ## 👥 Integrantes do Projeto
 
 | Nome Completo | Matrícula |
