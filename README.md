@@ -106,7 +106,7 @@ cd ProjetoMobile
 npm install
 ```
 
-### **Execução***
+### **Execução**
 ```bash
 # Execute o projeto com Expo
 npx expo start
