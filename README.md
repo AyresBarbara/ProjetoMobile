@@ -120,21 +120,18 @@ npx expo start
 
 ## 📸 Screenshots
 
-<div align="center">
-
 ### 🏠 Tela Inicial
-![Tela Inicial](./assets/screenshots/Home.png)
+![Tela Inicial](./assets/screenshots/Home.jpeg)
 
 ### 📖 Detalhes do Livro  
-![Detalhes do Livro](./assets/screenshots/Detalhes.png)
+![Detalhes do Livro](./assets/screenshots/Detalhes.jpeg)
 
 ### ❤️ Favoritos
-![Tela de Favoritos](./assets/screenshots/Favoritos.png)
+![Tela de Favoritos](./assets/screenshots/Favoritos.jpeg)
 
 ### 📍 Bibliotecas Próximas
-![Bibliotecas Próximas](./assets/screenshots/GeoLocalização.png)
+![Bibliotecas Próximas](./assets/screenshots/GeoLocalização.jpeg)
 
-</div>
 
 ## 👥 Integrantes do Projeto
 
