@@ -121,17 +121,16 @@ npx expo start
 ## 📸 Screenshots
 
 ### 🏠 Tela Inicial
-![Tela Inicial](./assets/screenshots/Home.jpeg)
+![Tela Inicial](https://github.com/AyresBarbara/ProjetoMobile/blob/main/assets/screenshots/Home.jpeg?raw=true)
 
 ### 📖 Detalhes do Livro  
-![Detalhes do Livro](./assets/screenshots/Detalhes.jpeg)
+![Detalhes do Livro](https://github.com/AyresBarbara/ProjetoMobile/blob/main/assets/screenshots/Detalhes.jpeg?raw=true)
 
 ### ❤️ Favoritos
-![Tela de Favoritos](./assets/screenshots/Favoritos.jpeg)
+![Tela de Favoritos](https://github.com/AyresBarbara/ProjetoMobile/blob/main/assets/screenshots/Favoritos.jpeg?raw=true)
 
 ### 📍 Bibliotecas Próximas
-![Bibliotecas Próximas](./assets/screenshots/GeoLocalização.jpeg)
-
+![Bibliotecas Próximas](https://github.com/AyresBarbara/ProjetoMobile/blob/main/assets/screenshots/GeoLocaliza%C3%A7%C3%A3o.jpeg?raw=true)
 
 ## 👥 Integrantes do Projeto
 
