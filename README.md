@@ -107,7 +107,6 @@ npm install
 
 ### Execução
 
-```bash
 # Execute o projeto com Expo
 npx expo start
 
@@ -117,6 +116,7 @@ npx expo start
 #   'a' para abrir no Android Emulator
 #   'i' para abrir no iOS Simulator
 #   'w' para abrir no navegador web
+```
 
 ## 📸 Screenshots
 
